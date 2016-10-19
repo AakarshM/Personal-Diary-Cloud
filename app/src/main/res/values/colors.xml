@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="hotpink">#FF69B4</color>
+    <color name="indigo">#4B0082</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#D3D3D3</color>
+    <color name="Transparent80">#80000000</color>
+
+
+</resources>
